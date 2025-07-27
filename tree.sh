@@ -32,7 +32,7 @@ touch scripts/validation/validate_gpo_links.ps1
 
 # Create ou_creation directory and files
 mkdir -p scripts/ou_creation
-touch scripts/ou_creation/create_organizational_units.ps1
+touch scripts/ou_creation/create_organisational_units.ps1
 
 # Create gpo directory structure and files
 mkdir -p scripts/gpo/{Sysadmin,General_User,Business_Development,Digital_Content,Digital,PR_Image_Control,Finance_Admin,Sales_Marketing,Production_MCR,News,Music_Library_Mgt,Programs,Quality_Control,Research,Technology,Traffic_Control,Servers,Service_Accounts}
